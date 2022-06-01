@@ -1,7 +1,7 @@
 - 👋 Hi, I’m: @whisper-nl
 - 👀 I’m interested in: coding,,,
-- 🌱 I’m currently learning: Python and Java
-- 💞️ I’m looking to collaborate on: nothing at the moment cuz im shti at coding
+- 🌱 I’m currently learning: Python
+- 💞️ I’m looking to collaborate on: nothing at the moment cuz im shit at coding
 - 📫 How to reach me: u dont
 
 <!---
